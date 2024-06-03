@@ -3,7 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/)
-
+- Hi I'm N Chiranjeevi im working on the my projects as i complete
+- I Post Here In my repository
+- so check daily updates
 
 <h2>💾 Certifications</h2>
 
