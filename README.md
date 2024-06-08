@@ -9,6 +9,7 @@
 
 <h2>💾 Certifications</h2>
 
+- [Professional Cybersecurity Badge By IBM for Completing Final graded Assessment](https://www.credly.com/go/8owIu67F)
 - [Cybersecurity Roles, Processes & Operating System Security](https://coursera.org/verify/KYVYCKJAVC3L)
 - [Mastering Network Security: Defending Against Cyber Threats](https://www.udemy.com/certificate/UC-f540f1bc-b3ab-41db-be30-e6567d640177/)
 - [Cybersecurity Bootcamp: The Ultimate Beginner's Course](https://www.udemy.com/certificate/UC-9187ed7c-f81d-43de-a50f-0c688ef0f12d/)
