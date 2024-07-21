@@ -17,6 +17,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 <h2>💾 Certifications</h2>
 
 - [Professional Cybersecurity Badge By IBM for Completing Final graded Assessment](https://www.credly.com/go/8owIu67F) [IBM PROFESSIONAL BADGE]
+- [GOOGLE CyberSecurity Professional Certificate for completing course](https://www.credly.com/badges/51f2bf08-af87-4da4-9dbf-c3f4fe7b488a)[BY GOOGLE]
 - [Edureka Internship Certificate](https://drive.google.com/file/d/1wK22lpX1KUV_1j2qeWM79XKPVq6Qk_2R/view?usp=drive_link) [EDUREKA]
 - [Cybersecurity Roles, Processes & Operating System Security](https://coursera.org/verify/KYVYCKJAVC3L) [IBM]
 - [Mastering Network Security: Defending Against Cyber Threats](https://www.udemy.com/certificate/UC-f540f1bc-b3ab-41db-be30-e6567d640177/) [UDEMY]
