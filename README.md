@@ -27,12 +27,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <h2>💾 Certifications</h2>
 
-- [Professional Cybersecurity Badge By IBM for Completing Final graded Assessment](https://www.credly.com/go/8owIu67F) [IBM PROFESSIONAL BADGE]
-- [GOOGLE CyberSecurity Professional Certificate for completing course](https://www.credly.com/badges/51f2bf08-af87-4da4-9dbf-c3f4fe7b488a)[BY GOOGLE]
-- [Edureka Internship Certificate](https://drive.google.com/file/d/1wK22lpX1KUV_1j2qeWM79XKPVq6Qk_2R/view?usp=drive_link) [EDUREKA]
-- [Cybersecurity Roles, Processes & Operating System Security](https://coursera.org/verify/KYVYCKJAVC3L) [IBM]
-- [Mastering Network Security: Defending Against Cyber Threats](https://www.udemy.com/certificate/UC-f540f1bc-b3ab-41db-be30-e6567d640177/) [UDEMY]
-- [Cybersecurity Bootcamp: The Ultimate Beginner's Course](https://www.udemy.com/certificate/UC-9187ed7c-f81d-43de-a50f-0c688ef0f12d/) [UDEMY]
+- [Awarded a Badge By IBM for Completing Course](https://www.credly.com/go/8owIu67F) 
+- [Awarded a Badge By GOOGLE for completing course](https://www.credly.com/badges/51f2bf08-af87-4da4-9dbf-c3f4fe7b488a)
+- [Google CyberSecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/QZT5LECB22R7)
+- [Edureka Internship Certificate](https://drive.google.com/file/d/1wK22lpX1KUV_1j2qeWM79XKPVq6Qk_2R/view?usp=drive_link)
+- [Cybersecurity Roles, Processes & Operating System Security](https://coursera.org/verify/KYVYCKJAVC3L) 
+- [Mastering Network Security: Defending Against Cyber Threats](https://www.udemy.com/certificate/UC-f540f1bc-b3ab-41db-be30-e6567d640177/) 
+- [Cybersecurity Bootcamp: The Ultimate Beginner's Course](https://www.udemy.com/certificate/UC-9187ed7c-f81d-43de-a50f-0c688ef0f12d/) 
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
