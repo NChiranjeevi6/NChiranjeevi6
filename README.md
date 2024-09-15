@@ -1,9 +1,12 @@
-<h1># Hello, I'm Naroju Chiranjeevi <br/><a href="https://github.com/NChiranjeevi6">Programmer</a>, <a href="https://www.linkedin.com/in/n-chiranjeevi-a8775123b/">Cybersecurity Professional</a>, </h1>
+<h1># Hello, I'm Naroju Chiranjeevi <br/><a href="https://github.com/NChiranjeevi6"></a> <a href="https://www.linkedin.com/in/n-chiranjeevi-a8775123b/">CYBER SECURITY PROFESSIONAL</a>, </h1>
+<div>
+<img src="https://img.shields.io/badge/-Cyber%20Security%20Analyst-005571?&style=for-the-badge&logo=cyber-security&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white"/>
+     </div>
+<a href="https://www.linkedin.com/in/n-chiranjeevi-a8775123b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-
-<a href="https://www.linkedin.com/in/n-chiranjeevi-a8775123b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-[ Introduction - ]
+[ **Introduction**  ]
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
