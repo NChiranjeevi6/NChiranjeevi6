@@ -58,16 +58,16 @@ My journey in Electronics and communication Engineering has led me to develop a 
 </div>
 
 
-<h2> ### Network </h2>
+<h2> ## Network </h2>
 <div>
      <img src="https://img.shields.io/badge/-Wireshark-0000FF?&style=for-the-badge&logo=wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-006400?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Netcat-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Netcat-000000?&style=for-the-badge&logo=Netcat&logoColor=white" />
 </div>
 
 
-<h2>### SIEM </h2>
+<h2>## SIEM </h2>
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cloud-005571?&style=for-the-badge&logo=Cloud&logoColor=white" />
