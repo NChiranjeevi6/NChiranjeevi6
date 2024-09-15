@@ -43,7 +43,7 @@ My journey in Electronics and communication Engineering has led me to develop a 
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-006400?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Netcat-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Netcat-000000?&style=for-the-badge&logo=Netcat&logoColor=white" />
 </div>
 
 
