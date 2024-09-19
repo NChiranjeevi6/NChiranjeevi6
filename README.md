@@ -12,7 +12,6 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 
 <h2> ## Objective </h2>
-[Provide Objective - Remove this afterwards]]
 
 My journey in Electronics and communication Engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
