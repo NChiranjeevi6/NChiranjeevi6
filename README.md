@@ -29,10 +29,6 @@ I'm a Security Analyst focused on SOC operations, incident response, and access 
 
 [![NChiranjeevi6's GitHub Streak](https://streak-stats.demolab.com/?user=NChiranjeevi6&theme=dark&background=0A101F&border=22D3EE&stroke=22D3EE&ring=22D3EE&fire=A78BFA&currStreakNum=94A3B8&sideNums=94A3B8&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=94A3B8&hide_border=true)](https://github.com/NChiranjeevi6)
 
-<div style="display: flex; gap: 2%; width: 100%;">
-  <img src="https://YOUR-INSTANCE.vercel.app/api?username=NChiranjeevi6&hide_rank=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8" alt="GitHub Stats" style="width: 49%; height: auto;" />
-  <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=NChiranjeevi6&hide_rank=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8" alt="Top Languages" style="width: 49%; height: auto;" />
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NChiranjeevi6/NChiranjeevi6/output/github-snake-dark.svg">
