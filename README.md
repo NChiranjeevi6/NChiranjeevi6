@@ -1,373 +1,45 @@
-```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║     ███╗   ██╗ ██████╗██╗  ██╗██╗██████╗  █████╗ ███╗   ██╗██╗███████╗  ║
-║     ████╗  ██║██╔════╝██║  ██║██║██╔══██╗██╔══██╗████╗  ██║██║██╔════╝  ║
-║     ██╔██╗ ██║██║     ███████║██║██████╔╝███████║██╔██╗ ██║██║█████╗    ║
-║     ██║╚██╗██║██║     ██╔══██║██║██╔══██╗██╔══██║██║╚██╗██║██║██╔══╝    ║
-║     ██║ ╚████║╚██████╗██║  ██║██║██║  ██║██║  ██║██║ ╚████║██║███████╗  ║
-║     ╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝  ║
-║                                                                           ║
-║              🔓 CYBERSECURITY SPECIALIST | ETHICAL HACKER 🔓             ║
-║                    Advanced Security Operations & Penetration            ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🎯 THREAT LEVEL: ELITE
-
-> **Senior Security Researcher | Penetration Testing Specialist | Exploit Development**  
-> *Breaking systems by design | Defensive by nature | Offensive by necessity*
-
-```
-[████████████████████░] 95% Cybersecurity Mastery
-[███████████████░░░░░░] 80% Exploit Development  
-[██████████████████░░░] 90% Network Reconnaissance
-[█████████████████████] 100% Ethical Standards
-```
-
----
-
-## 🚨 OPERATIONAL PROFILE
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│ NAME:        N Chiranjeevi (NChiranjeevi6)                       │
-│ SPECIALIZATION: Cybersecurity | Penetration Testing             │
-│ STATUS:      Active | Operational                               │
-│ THREAT LEVEL: Authorized                                        │
-│ EXPERTISE:   Network Security | System Hardening | Red Teaming  │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 💀 ARSENAL & TOOLSET
-
-### 🔨 **OFFENSIVE SECURITY TOOLS**
-```
-[✓] Metasploit Framework     │ [✓] Burp Suite Pro
-[✓] Wireshark               │ [✓] Aircrack-ng
-[✓] John the Ripper         │ [✓] Hydra
-[✓] SQLmap                  │ [✓] Nmap
-[✓] Hashcat                 │ [✓] Empire Framework
-```
-
-### 🛡️ **DEFENSIVE SECURITY ARSENAL**
-```
-[✓] SIEM Implementation     │ [✓] Incident Response
-[✓] Vulnerability Assessment│ [✓] Threat Hunting
-[✓] Log Analysis & Forensics│ [✓] Network Monitoring
-[✓] Firewall Config         │ [✓] IDS/IPS Management
-```
-
-### 🖥️ **TECHNICAL PROFICIENCY**
-```
-┌─────────────────────────────────────────┐
-│ LANGUAGES:                              │
-│ ► Python (Advanced)                    │
-│ ► Bash/Shell Scripting (Expert)        │
-│ ► PowerShell (Advanced)                │
-│ ► C/C++ (Intermediate)                 │
-│                                         │
-│ PLATFORMS:                              │
-│ ► Linux (Kali, Parrot, Ubuntu)        │
-│ ► Windows (Hardening & Analysis)      │
-│ ► macOS (Forensics)                   │
-│ ► Cloud Platforms (AWS, Azure, GCP)   │
-│                                         │
-│ SPECIALIZATIONS:                        │
-│ ► Penetration Testing                  │
-│ ► Vulnerability Assessment             │
-│ ► Red Team Operations                  │
-│ ► Security Automation                  │
-│ ► Threat Intelligence                  │
-└─────────────────────────────────────────┘
-```
-
----
-
-## 🎖️ CERTIFICATIONS & CREDENTIALS
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║                    SECURITY CERTIFICATIONS                    ║
-╠════════════════════════════════════════════════════════════════╣
-║ [🔐] Google Cybersecurity Professional Certificate            ║
-║ [🔐] CompTIA Security+ (Network+, Security, in progress)      ║
-║ [🔐] CEH (Certified Ethical Hacker) - Pursuing               ║
-║ [🔐] IBM Cybersecurity Analyst Certificate                    ║
-║ [🔐] Edureka Advanced Security Training                       ║
-║ [🔐] SOC Automation & SOAR Technologies                       ║
-║ [🔐] Active Directory & Domain Security                       ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🔥 ACTIVE OPERATIONS (Projects)
-
-### 🌙 **[XTscan](https://github.com/NChiranjeevi6/XTscan)** ⚡
-**Custom Port Scanning Framework**
-```
-█████████░ 95% Complete | Python | Advanced Reconnaissance
-Advanced port enumeration & service fingerprinting
-└─ Network scanning | Service detection | Banner grabbing
-└─ Threat assessment | Open port mapping
-└─ Custom payloads enabled | Stealth mode available
-```
-
-### 💻 **[ActiveDirectoryLab](https://github.com/NChiranjeevi6/ActiveDirectoryLab)** ⚡
-**Enterprise Security Testing Environment**
-```
-██████████░ 100% Complete | System Hardening Lab
-Simulate real-world domain environments
-└─ User privilege escalation testing
-└─ Authentication bypass techniques
-└─ Group Policy exploitation
-└─ Lateral movement scenarios
-└─ Domain takeover simulations
-```
-
-### 🧬 **[Testing-Lab](https://github.com/NChiranjeevi6/Testing-Lab)** ⚡
-**Advanced Security Testing Sandbox**
-```
-████████░░ 85% Complete | Proof of Concept Developments
-Experimental exploitation framework
-└─ Zero-day development & testing
-└─ Tool evaluation & benchmarking
-└─ Vulnerability validation
-└─ Payload creation & deployment
-```
-
----
-
-## 🎯 CORE COMPETENCIES
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║  PENETRATION TESTING          │  INCIDENT RESPONSE            ║
-║  • Web App Testing            │  • Malware Analysis           ║
-║  • API Security               │  • Forensic Investigation     ║
-║  • Network Exploitation       │  • Threat Hunting             ║
-║  • Privilege Escalation       │  • Evidence Preservation      ║
-║  • Post-Exploitation          │  • Breach Analysis            ║
-║                               │                               ║
-║  RED TEAM OPERATIONS          │  SECURITY AUTOMATION         ║
-║  • Advanced Evasion           │  • SOAR Integration           ║
-║  • Social Engineering         │  • Orchestration Scripts      ║
-║  • Supply Chain Attacks       │  • Threat Mitigation          ║
-║  • Custom Exploitation        │  • Compliance Automation      ║
-║  • Infrastructure Assessment  │  • Continuous Scanning       ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 📊 THREAT INTELLIGENCE & ANALYTICS
-
-```
-┌─────────────────────────────────────────────────────────┐
-│ SIEM PLATFORMS MASTERED                                │
-│ ► Splunk Enterprise (Advanced Queries & Dashboards)   │
-│ ► Elastic Stack (ELK - Log Aggregation)               │
-│ ► IBM QRadar (SIEM & Threat Detection)                │
-│ ► ArcSight (Enterprise Security Management)           │
-│                                                        │
-│ THREAT HUNTING CAPABILITIES                            │
-│ ► IOC Analysis & Correlation                          │
-│ ► Behavioral Analysis                                 │
-│ ► Anomaly Detection                                   │
-│ ► Pattern Recognition                                 │
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🔐 SECURITY FRAMEWORKS & STANDARDS
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║ [✓] NIST Cybersecurity Framework      │ [✓] ISO 27001   ║
-║ [✓] OWASP Top 10 (Web Security)       │ [✓] CIS Controls║
-║ [✓] MITRE ATT&CK Framework           │ [✓] SANS Best Pr║
-║ [✓] Zero Trust Architecture           │ [✓] Defense-in-D║
-║ [✓] Incident Response Playbooks       │ [✓] BCP/DRP     ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🌐 NETWORK SECURITY MASTERY
-
-```
-┌──────────────────────────────────────────────────────────┐
-│ ADVANCED TOOLS:                                          │
-│ ► Wireshark (Deep Packet Analysis)                     │
-│ ► Suricata (IDS/IPS Management)                        │
-│ ► Zeek (Network Telemetry)                             │
-│ ► Snort (Intrusion Detection)                          │
-│ ► tcpdump (Traffic Capture & Analysis)                 │
-│ ► Netcat/Nmap (Network Enumeration)                    │
-│ ► Proxychains (Anonymous Operations)                   │
-└──────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🎬 EXPLOITATION & DEVELOPMENT
-
-```
-╔═════════════════════════════════════════════════════════╗
-║         ADVANCED OFFENSIVE CAPABILITIES                ║
-╠═════════════════════════════════════════════════════════╣
-║ ► Buffer Overflow Exploitation                         ║
-║ ► Shellcode Development                                ║
-║ ► Custom Exploit Creation                              ║
-║ ► Payload Encoding & Obfuscation                       ║
-║ ► Reverse Shell Techniques                             ║
-║ ► Privilege Escalation Methods                         ║
-║ ► Social Engineering Frameworks                        ║
-║ ► C2 (Command & Control) Operations                    ║
-╚═════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🏆 OPERATIONAL STATISTICS
-
-```
-┌────────────────────────────────────────────────────┐
-│  ✓ Public Repositories:        4                  │
-│  ✓ Security Tools Deployed:    15+                │
-│  ✓ Vulnerability Assessments:  Multiple           │
-│  ✓ Security Labs Completed:    Advanced Level     │
-│  ✓ Years in Cybersecurity:     Dedicated          │
-│  ✓ Certifications Earned:      5+                 │
-│  ✓ Community Contributions:    Active             │
-│  ✓ Threat Level Status:        AUTHORIZED         │
-└────────────────────────────────────────────────────┘
-```
-
----
-
-## 🚀 MISSION OBJECTIVES
-
-```
-☐ Achieve CEH Certification
-☐ Advanced Metasploit Development
-☐ Red Team Framework Mastery
-☐ Zero-Day Research & Development
-☐ Security Tool Development
-☐ Threat Intelligence Analysis
-☐ OSCP Certification (Offensive Security Certified Professional)
-☐ Advanced Exploit Development
-```
-
----
-
-## 🔗 SECURE COMMUNICATION CHANNELS
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                 CONNECT ON PLATFORMS:                   │
-├─────────────────────────────────────────────────────────┤
-│ 🔐 LinkedIn: N Chiranjeevi (Cybersecurity Professional) │
-│ 🎥 YouTube: Cybersecurity Content & Tutorials          │
-│ 🐦 Twitter: @Nchiranjeevi666                           │
-│ 📸 Instagram: @chiru00108                              │
-│ 💻 GitHub: NChiranjeevi6                               │
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
-## ⚙️ SYSTEM SPECIFICATIONS
-
-```
-╔══════════════════════════════════════════════════════════╗
-║              OPERATIONAL ENVIRONMENT                    ║
-╠══════════════════════════════════════════════════════════╣
-║ Primary OS:        Linux (Kali / Parrot)               ║
-║ Secondary OS:      Windows (Hardened)                  ║
-║ Virtualization:    VirtualBox / VMware                 ║
-║ Lab Environment:   Active Directory Infrastructure     ║
-║ Network Setup:     Segmented Testing Topology          ║
-║ Backup Systems:    Redundant & Encrypted               ║
-║ Security Level:    Enterprise Grade                    ║
-╚══════════════════════════════════════════════════════════╝
-```
-
----
-
-## 📝 SECURITY PHILOSOPHY
-
-```
-"Security is not about preventing attacks,
- it's about being prepared for when they happen.
-
- I believe in:
- ✓ Ethical hacking for defense
- ✓ Continuous learning & adaptation
- ✓ Responsible disclosure
- ✓ Community contribution
- ✓ Breaking systems to build them stronger"
-```
-
----
-
-## 🎓 LEARNING PATH & EXPERTISE AREAS
-
-```
-████████████████████ 100% → Penetration Testing
-████████████████░░░░ 80%  → Exploit Development
-███████████████░░░░░ 75%  → Malware Analysis
-█████████████████░░░ 85%  → Network Security
-████████████████████ 95%  → Security Tools
-████████████████░░░░ 80%  → Incident Response
-```
-
----
-
-## 🔥 RECENT ACTIVITY & COMMITS
-
-```
-Last Active: Always Improving & Learning
-Current Focus: Advanced Exploit Development
-Contribution Level: High
-Repository Status: Actively Maintained
-```
-
----
-
-```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║         ⚡ AUTHORIZED ACCESS ONLY - ETHICAL HACKING ADVOCATE ⚡           ║
-║                                                                           ║
-║      "The best hackers are not those who break systems for profit,       ║
-║       but those who strengthen them for protection."                     ║
-║                                                                           ║
-║            🔐 Welcome to Advanced Cybersecurity Operations 🔐             ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## ⚖️ ETHICAL STATEMENT
-
-```
-✓ Authorized Testing Only
-✓ Legal Compliance First
-✓ Responsible Disclosure
-✓ No Malicious Activities
-✓ Educational Purpose Driven
-✓ Community Advocate
-```
-
----
-
-**Last Updated:** 2024 | **Status:** ACTIVE OPERATIONS | **Clearance:** AUTHORIZED
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NChiranjeevi6/NChiranjeevi6/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NChiranjeevi6/NChiranjeevi6/main/light.svg">
+  <img alt="Banner" src="https://raw.githubusercontent.com/NChiranjeevi6/NChiranjeevi6/main/light.svg">
+</picture>
+
+## About Me
+
+I'm a Security Analyst focused on SOC operations, incident response, and access control management. I'm building expertise in SIEM monitoring, vulnerability management, and incident triage while transitioning into dedicated SOC Analyst roles. Currently based in Hyderabad, working across security tools and incident detection frameworks.
+
+## Tech Stack
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-007BFF?style=for-the-badge&logo=wazuh&logoColor=white)
+![Seceon](https://img.shields.io/badge/Seceon-008080?style=for-the-badge&logo=seceon&logoColor=white)
+![SentinelOne](https://img.shields.io/badge/SentinelOne-1B1C1D?style=for-the-badge&logo=sentinelone&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4B90DE?style=for-the-badge&logo=nmap&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-004B96?style=for-the-badge&logo=tenable&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-FFFFFF?style=for-the-badge&logo=servicenow&logoColor=black)
+
+## Stats & Activity
+
+[![NChiranjeevi6's GitHub Streak](https://streak-stats.demolab.com/?user=NChiranjeevi6&theme=dark&background=0A101F&border=22D3EE&stroke=22D3EE&ring=22D3EE&fire=A78BFA&currStreakNum=94A3B8&sideNums=94A3B8&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=94A3B8&hide_border=true)](https://github.com/NChiranjeevi6)
+
+<div style="display: flex; gap: 2%; width: 100%;">
+  <img src="https://YOUR-INSTANCE.vercel.app/api?username=NChiranjeevi6&hide_rank=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8" alt="GitHub Stats" style="width: 49%; height: auto;" />
+  <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=NChiranjeevi6&hide_rank=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8" alt="Top Languages" style="width: 49%; height: auto;" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NChiranjeevi6/NChiranjeevi6/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NChiranjeevi6/NChiranjeevi6/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/NChiranjeevi6/NChiranjeevi6/output/github-snake.svg">
+</picture>
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naroju-chiranjeevi/)&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=globe&logoColor=black)](https://narojuchiranjeevi16.netlify.app/)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
