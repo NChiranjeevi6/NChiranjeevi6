@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 396" width="900" height="396" role="img" aria-label="Terminal: whoami, focus, location, status">
+<defs>
+<clipPath id="c0"><rect x="48" y="82" width="0" height="24"><animate attributeName="width" from="0" to="76.4" begin="0.8s" dur="0.56s" fill="freeze"/></rect></clipPath>
+<clipPath id="o0"><rect x="48" y="106" width="0" height="24"><animate attributeName="width" from="0" to="447.5" begin="1.71s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c1"><rect x="48" y="146" width="0" height="24"><animate attributeName="width" from="0" to="148.8" begin="2.81s" dur="1.12s" fill="freeze"/></rect></clipPath>
+<clipPath id="o1"><rect x="48" y="170" width="0" height="24"><animate attributeName="width" from="0" to="565.1" begin="4.28s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c2"><rect x="48" y="210" width="0" height="24"><animate attributeName="width" from="0" to="148.8" begin="5.38s" dur="1.12s" fill="freeze"/></rect></clipPath>
+<clipPath id="o2"><rect x="48" y="234" width="0" height="24"><animate attributeName="width" from="0" to="121.7" begin="6.85s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c3"><rect x="48" y="274" width="0" height="24"><animate attributeName="width" from="0" to="166.9" begin="7.95s" dur="1.26s" fill="freeze"/></rect></clipPath>
+<clipPath id="o3"><rect x="48" y="298" width="0" height="24"><animate attributeName="width" from="0" to="347.9" begin="9.56s" dur="0.5s" fill="freeze"/></rect></clipPath>
+</defs>
+<g font-family="'JetBrains Mono','Fira Code','SF Mono','Courier New',monospace">
+<rect x="0.5" y="0.5" width="899" height="395" rx="12" fill="#070d18" stroke="#16304d"/>
+<path d="M0.5 12.5A12 12 0 0 1 12.5 0.5H887.5A12 12 0 0 1 899.5 12.5V40H0.5Z" fill="#0d1a2e"/>
+<circle cx="24" cy="21" r="5.5" fill="#ff5f56"/><circle cx="44" cy="21" r="5.5" fill="#ffbd2e"/><circle cx="64" cy="21" r="5.5" fill="#27c93f"/>
+<text x="450" y="26" font-size="12" fill="#6b819c" text-anchor="middle" letter-spacing="1">nchiranjeevi@soc-node:~</text>
+<g clip-path="url(#c0)"><text x="48" y="100" font-size="15"><tspan fill="#22ff88">$ </tspan><tspan fill="#e6edf3">whoami</tspan></text></g>
+<g clip-path="url(#o0)"><text x="48" y="124" font-size="15" fill="#c9d6e8">nchiranjeevi :: security_analyst [SOC | IR | IAM]</text></g>
+<g clip-path="url(#c1)"><text x="48" y="164" font-size="15"><tspan fill="#22ff88">$ </tspan><tspan fill="#e6edf3">cat focus.conf</tspan></text></g>
+<g clip-path="url(#o1)"><text x="48" y="188" font-size="15" fill="#00f0ff">SIEM_MONITORING | INCIDENT_TRIAGE | VULN_MGMT | ACCESS_CONTROL</text></g>
+<g clip-path="url(#c2)"><text x="48" y="228" font-size="15"><tspan fill="#22ff88">$ </tspan><tspan fill="#e6edf3">echo $LOCATION</tspan></text></g>
+<g clip-path="url(#o2)"><text x="48" y="252" font-size="15" fill="#c9d6e8">Hyderabad, IN</text></g>
+<g clip-path="url(#c3)"><text x="48" y="292" font-size="15"><tspan fill="#22ff88">$ </tspan><tspan fill="#e6edf3">./status --check</tspan></text></g>
+<g clip-path="url(#o3)"><text x="48" y="316" font-size="15" fill="#22ff88">[ OK ] open to SOC Analyst L1/L2 roles</text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="10.66s"/><text x="48" y="356" font-size="15" fill="#22ff88">$ </text>
+<rect x="66.1" y="342" width="9" height="18" fill="#00f0ff"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect></g></g>
+</svg>

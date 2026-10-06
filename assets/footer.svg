@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="presentation">
+<defs><clipPath id="r"><rect width="1000" height="150" rx="14"/></clipPath></defs>
+<g clip-path="url(#r)" font-family="'JetBrains Mono','Fira Code','SF Mono','Courier New',monospace">
+<rect width="1000" height="150" fill="#070d18"/>
+<path d="M0 96 q62.5 -26 125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 V150 H0 Z" fill="#00f0ff" fill-opacity="0.18"><animateTransform attributeName="transform" type="translate" from="0 0" to="-250 0" dur="7s" repeatCount="indefinite"/></path>
+<path d="M0 108 q62.5 -20 125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 V150 H0 Z" fill="#8b5cf6" fill-opacity="0.18"><animateTransform attributeName="transform" type="translate" from="-250 0" to="0 0" dur="10s" repeatCount="indefinite"/></path>
+<text x="500" y="52" font-size="13" fill="#8aa0b8" text-anchor="middle" letter-spacing="4">STAY VIGILANT // VERIFY EVERYTHING // TRUST NOTHING</text>
+</g>
+<rect x="0.5" y="0.5" width="999" height="149" rx="14" fill="none" stroke="#14304d"/>
+</svg>
