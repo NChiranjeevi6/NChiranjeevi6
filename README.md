@@ -105,6 +105,7 @@
 ## `[ COMMS ]` Open Channels
 
 <a href="https://www.linkedin.com/in/naroju-chiranjeevi"><img src="https://img.shields.io/badge/LinkedIn-111c2e?style=for-the-badge&logo=linkedin&logoColor=00f0ff&labelColor=0b1220" alt="LinkedIn"/></a>
+<a href="https://narojuchiranjeevi16.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111c2e?style=for-the-badge&logo=googlechrome&logoColor=00f0ff&labelColor=0b1220" alt="Portfolio"/></a>
 <a href="mailto:nchiranjeevi6666@gmail.com"><img src="https://img.shields.io/badge/Email-111c2e?style=for-the-badge&logo=gmail&logoColor=00f0ff&labelColor=0b1220" alt="Email"/></a>
 <!-- Add portfolio badge here when ready:
 <a href="https://YOUR-PORTFOLIO.example"><img src="https://img.shields.io/badge/Portfolio-111c2e?style=for-the-badge&logo=googlechrome&logoColor=00f0ff&labelColor=0b1220" alt="Portfolio"/></a> -->
