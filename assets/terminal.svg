@@ -21,7 +21,7 @@
 <g clip-path="url(#c2)"><text x="48" y="228" font-size="15"><tspan fill="#22ff88">$ </tspan><tspan fill="#e6edf3">echo $LOCATION</tspan></text></g>
 <g clip-path="url(#o2)"><text x="48" y="252" font-size="15" fill="#c9d6e8">Hyderabad, IN</text></g>
 <g clip-path="url(#c3)"><text x="48" y="292" font-size="15"><tspan fill="#22ff88">$ </tspan><tspan fill="#e6edf3">./status --check</tspan></text></g>
-<g clip-path="url(#o3)"><text x="48" y="316" font-size="15" fill="#22ff88">[ OK ] open to CyberSecurity & SOC Analyst L1/L2 roles and</text></g>
+<g clip-path="url(#o3)"><text x="48" y="316" font-size="15" fill="#22ff88">[ OK ] open to CyberSecurity and SOC Analyst L1/L2 roles and</text></g>
 <g opacity="0"><set attributeName="opacity" to="1" begin="10.66s"/><text x="48" y="356" font-size="15" fill="#22ff88">$ </text>
 <rect x="66.1" y="342" width="9" height="18" fill="#00f0ff"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect></g></g>
 </svg>
