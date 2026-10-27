@@ -18,7 +18,7 @@
 | **Scope** | 24/7 SIEM monitoring across a 30,000+ device BFSI fleet |
 | **Domains** | SOC operations, incident response, IAM and access control, vulnerability and patch management |
 | **Location** | Hyderabad, Telangana, IN |
-| **Status** | 🟢 Open to Security Analyst, SOC Analyst, IAM and Information Security Analyst roles |
+| **Status** | 🟢 Open to Security Engineer, Cybersecurity Engineer, Systems Security Engineer, and IAM Engineer roles |
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
